@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlternateLetters/AlternateLetters.iml" filepath="$PROJECT_DIR$/AlternateLetters/AlternateLetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMenuApp/JavaMenuApp.iml" filepath="$PROJECT_DIR$/JavaMenuApp/JavaMenuApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintInitials/PrintInitials.iml" filepath="$PROJECT_DIR$/PrintInitials/PrintInitials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMyself.iml" filepath="$PROJECT_DIR$/TestMyself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VowelCount/VowelCount.iml" filepath="$PROJECT_DIR$/VowelCount/VowelCount.iml" />
+    </modules>
+  </component>
+</project>
